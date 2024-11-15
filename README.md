@@ -1,0 +1,1 @@
+# rabbitmq-weak-password-amqp-5672
