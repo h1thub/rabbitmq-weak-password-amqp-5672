@@ -21,4 +21,4 @@ The template attempts to connect to the RabbitMQ service running on port 5672 us
 To run the template, use the Nuclei tool with the following command:
 
 ```bash
-nuclei -t rabbitmq-weak-password-amqp-5672.yaml -target ip:5672
+nuclei -t rabbitmq-weak-password-amqp-5672.yaml -u ip:5672
